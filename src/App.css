@@ -129,7 +129,7 @@
   }
 }
 
-@media(min-width: 900px) {
+@media(min-width: 950px) {
 
   .main-navigation {
     padding: 1.5em 0;
@@ -149,7 +149,8 @@
   }
 
   .cards {
-    row-gap: 4em;
+    row-gap: 4.3em;
+    margin: 4em 0;
   }
 
   .card {
